@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-Hi, I’m **nets** — a code artisan, tech explorer, and lifelong learner.  
+Hi, I’m **Neerav** — a code artisan, tech explorer, and lifelong learner.  
 I turn ☕ into code, bugs into features, and ideas into reality.
 
 ---
