@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-Hi, I’m **網路服務中心** — a code artisan, tech explorer, and lifelong learner.  
+Hi, I’m Netsf — a code artisan, tech explorer, and lifelong learner.  
 I turn ☕ into code, bugs into features, and ideas into reality.
 
 ---
