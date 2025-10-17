@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-Hi, I’m Sebastian Kehle — a code artisan, tech explorer, and lifelong learner.  
+Hi, I’m Micheal Golsstein — a 13 y/o code artisan and tech explorer working on Kodo
 I turn ☕ into code, bugs into features, and ideas into reality.
 
 ---
